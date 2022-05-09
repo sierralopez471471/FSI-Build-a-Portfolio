@@ -3,3 +3,24 @@ div {
     text-align: center;
     color: burlywood;
 }
+.MyProjects {
+    text-align: left;
+}
+ul {
+    text-align: left;
+}
+.Contact {
+    text-align: left;
+}
+.phone {
+    text-align: left;
+    color: aquamarine;
+}
+.email {
+    text-align: left;
+    color: aquamarine;
+}
+img {
+    border-style: solid;
+    border-radius: 15px 50px;
+}
